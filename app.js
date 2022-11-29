@@ -2,6 +2,6 @@ console.log("hola");
 console.log("hola");
 
 
-function pordos(parametro){
+function porDos(parametro){
     return parametro * 2;
 }
